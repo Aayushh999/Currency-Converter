@@ -26,7 +26,7 @@ function App() {
     <div
         className="w-screen h-screen flex flex-wrap justify-center items-center "
         style={{
-            backgroundImage: `url('https://i.pinimg.com/474x/b2/af/68/b2af68f848bae620e4890bea69cbf2d3.jpg')`,
+            backgroundImage: `url('https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
             backgroundSize: 'cover',
             backgroundPosition: 'center center',
         }}
